@@ -4,6 +4,4 @@
 
 NerdyBumgyu: hmmmmmMm grow a plant till it pops out of ground "hello world" ????
 
-also penis, because Darksoulmaster. :)
-
-webhook testt
+k don't do that pls
