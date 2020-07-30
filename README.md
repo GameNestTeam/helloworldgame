@@ -4,4 +4,4 @@
 
 NerdyBumgyu: hmmmmmMm grow a plant till it pops out of ground "hello world" ????
 
-k don't do that pls
+Current objective: Find out the game type, and what it's gonna be about.
