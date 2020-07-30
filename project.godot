@@ -17,8 +17,10 @@ _global_script_class_icons={
 
 config/name="helloworldgame"
 run/main_scene="res://Test title screen.tscn"
+boot_splash/image="res://Graphics/Splash image.png"
 config/icon="res://icon.png"
 
 [rendering]
 
+threads/thread_model=2
 environment/default_environment="res://default_env.tres"
