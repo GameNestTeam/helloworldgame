@@ -1,6 +1,7 @@
-[gd_scene load_steps=2 format=2]
+[gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://Graphics/Font.tres" type="DynamicFont" id=1]
+[ext_resource path="res://conceptart.png" type="Texture" id=2]
 
 [node name="Control" type="Control"]
 anchor_right = 1.0
@@ -10,8 +11,8 @@ __meta__ = {
 }
 
 [node name="ColorRect" type="ColorRect" parent="."]
-margin_right = 1024.0
-margin_bottom = 600.0
+margin_right = 480.0
+margin_bottom = 640.0
 color = Color( 0.72549, 1, 0.960784, 1 )
 __meta__ = {
 "_edit_use_anchors_": false
@@ -20,12 +21,17 @@ __meta__ = {
 [node name="Label" type="Label" parent="."]
 anchor_left = 0.5
 anchor_right = 0.5
-margin_left = -350.0
-margin_right = 350.0
-margin_bottom = 72.0
+margin_left = -175.0
+margin_right = 175.0
+margin_bottom = 40.0
 custom_fonts/font = ExtResource( 1 )
-text = "Illegal Harvest"
-align = 1
+text = "Ultimate Helloworldgame"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TextureRect" type="TextureRect" parent="."]
+texture = ExtResource( 2 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
